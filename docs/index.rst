@@ -12,8 +12,9 @@ Welcome to doxy_test's documentation!
 
 Docs
 ======
-.. doxygenstruct:: cat
-   :members:
+.. cpp:struct:: cat
+
+
 
 Indices and tables
 ==================

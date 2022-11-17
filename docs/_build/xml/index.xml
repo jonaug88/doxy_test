@@ -14,7 +14,7 @@ contain the root `toctree` directive.</comment>
     <section ids="docs" names="docs">
         <title>Docs</title>
         <warning>
-            <paragraph>doxygenstruct: Cannot find class “cat” in doxygen xml output for project “doxy_test” from directory: ../docs/_build/xml/</paragraph>
+            <paragraph>doxygenstruct: breathe_default_project value ‘doxy_test’ does not seem to be a valid key for the breathe_projects dictionary</paragraph>
         </warning>
     </section>
     <section ids="indices-and-tables" names="indices\ and\ tables">

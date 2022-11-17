@@ -45,9 +45,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 # Breathe Configuration
-breathe_projects = {
-"doxy_test": "../docs/_build/xml/",
-}
+
 breathe_default_project = "doxy_test"
 
 # -- Options for HTML output -------------------------------------------------
